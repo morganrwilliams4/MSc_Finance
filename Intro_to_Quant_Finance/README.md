@@ -214,12 +214,4 @@ Potential enhancements across projects:
 
 ---
 
-## Contact & Usage
-
-These projects were completed as part of the MSc Finance program at the University of Bath. The code is provided for educational and portfolio demonstration purposes.
-
-For questions or collaboration opportunities, please refer to the main repository README.
-
----
-
 *All projects demonstrate practical applications of quantitative finance theory using Python, showcasing both technical programming skills and deep understanding of financial markets.*
