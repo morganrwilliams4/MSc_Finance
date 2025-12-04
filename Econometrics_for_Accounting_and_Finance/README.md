@@ -1,6 +1,6 @@
 # Vector Error Correction Model: Macroeconomic Analysis
 
-**Course:** Econometrics  
+**Course:** Econometrics for Accounting and Finance
 **Institution:** University of Bath  
 **Year:** 2025  
 **Program:** MSc Finance
