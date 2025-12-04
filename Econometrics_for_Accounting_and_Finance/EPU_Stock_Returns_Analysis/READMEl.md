@@ -1,6 +1,6 @@
 # Economic Policy Uncertainty and US Stock Market Returns
 
-**Course:** Econometrics  
+**Course:** Econometrics for Accounting and Finance
 **Institution:** University of Bath  
 **Year:** 2025  
 **Program:** MSc Finance
