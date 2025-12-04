@@ -1,6 +1,6 @@
 # Bond Pricing and Duration Calculator
 
-**Course:** [Course Name]  
+**Course:** Intro to Quant Finance  
 **Institution:** University of Bath  
 **Year:** 2025
 
